@@ -4,18 +4,7 @@ alphabet=' abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQR5STUVWXYZ1234567890'
 keynums='123456789'
 testNum=3
 
-print("""
-
-+------------------------------------------------------+
-|     Noah's Encryption and Decryption Algorithm       |
-|                Created Dec 3, 2020                   |
-|                                                      |
-|    For Eny Questions Email: contact@communism.com    |
-+------------------------------------------------------+
-
-
-
-""")
+print("\n+------------------------------------------------------+\n|     Noah 's Encryption and Decryption Algorithm      |\n|                Created Dec 3, 2020                   |\n|                                                      |\n|    For Eny Questions Email: contact@communism.com    |\n+------------------------------------------------------+\n\n\n\n")
 
 def encryption(message, encryptionLevel):
     keySignature = "Key Signature: _"
