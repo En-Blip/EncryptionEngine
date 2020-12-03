@@ -7,7 +7,7 @@ testNum=3
 print("""
 
 +------------------------------------------------------+
-| Noah's Encryption and Decryption Algorithm |
+| Noah's Encryption and Decryption Algorithm           |
 |                Created Dec 3, 2020                   |
 |                                                      |
 |    For Eny Questions Email: contact@communism.com    |
